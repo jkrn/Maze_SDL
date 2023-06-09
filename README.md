@@ -2,7 +2,7 @@
 
 Maze is small 2D game written in C++.
 
-SDL is used for the 3D visualization.
+SDL is used for the 2D visualization.
 
 The folder "Win_10_Executable" contains the compiled EXE file.
 
